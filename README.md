@@ -15,11 +15,11 @@ Call the truthTable function with your boolean expression and the number of inpu
 Call the shift function to perform bitwise left or right shift operations.
 
 Example:
-expression = "A AND NOT (B XOR C)"
-truthTable(expression, 3)
+* expression = "A AND NOT (B XOR C)"
+* truthTable(expression, 3)
 
-num = 5
-shift_by = 3
-result = shift(num, shift_by, "left")
+* num = 5
+* shift_by = 3
+* result = shift(num, shift_by, "left")
 
 Feel free to explore and use this repository for generating truth tables and performing bitwise operations in your Python projects!
